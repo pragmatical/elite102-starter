@@ -1,5 +1,5 @@
 {
-  "name": "C2C Elite 101 - Python",
+  "name": "C2C Elite 102 - Python",
   // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
   "image": "mcr.microsoft.com/devcontainers/python:dev-3.13-bookworm", // pinning a OS version
   "features": {
